@@ -14,10 +14,19 @@ Hier ein paar links wie git richtig einzurichten ist und wie man github optimal 
 https://docs.github.com/en/github/using-git/getting-started-with-git-and-github
 
 
+# Challenges
+
+Kleine Programmieraufgaben/Challenges zum lernen: https://github.com/dev-schueppchen/programmier-aufgaben
+
 # Ideen
 
-Ideen für kleine scripts/programme zum lernen
+Ideen für weitere kleine scripts/programme
 
-- [BEGINNER/MEDIUM] Passwortcracker(wenn gewünscht, kann ich nen server bereitstellen an dem ihr euch versuchen dürt)
+- [BEGINNER/MEDIUM] Passwortcracker(wenn gewünscht, kann ich nen server bereitstellen an dem ihr euch versuchen dürft)
+
+- [ADVANCED] Webscraping
 
 - [ADVANCED] TicTacToe in der commandline
+
+- [ULTRA ADVANCED] Multiplayer TicTacToe
+
