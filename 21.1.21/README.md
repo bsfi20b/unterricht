@@ -4,7 +4,7 @@ Wie ihr seht habe ich auch noch eine java version der fizzbuzz challenge angehä
 
 Links für weitere Lösungen der fizzbuzz challenge in python:
 
-<script src="https://gist.github.com/jaysonrowe/1592775.js"></script>
+https://gist.github.com/jaysonrowe/1592775
 
 
 # Software / Einrichtung
